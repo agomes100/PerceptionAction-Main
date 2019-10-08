@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{93309530-DC3C-7EA7-F05B-6B114BB162E9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/knobResize.cs">
+    <Files>
+      <File FileName="Assets/knobResize.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

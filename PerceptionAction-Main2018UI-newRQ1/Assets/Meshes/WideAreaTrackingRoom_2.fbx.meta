@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: fdf6073a5e4b6fe47a08ff2d66d39994
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cable Channel.000
+    100002: Cable Channel.001
+    100004: Ceiling Rails.001
+    100006: Ceiling Rails.002
+    100008: Ceiling Rails.003
+    100010: Ceiling Rails.004
+    100012: Ceiling Rails.005
+    100014: Ceiling Rails.006
+    100016: Ceiling Tile.603
+    100018: Cube
+    100020: Door
+    100022: Door Frame
+    100024: Door Frame.001
+    100026: Door.001
+    100028: Entry Annex
+    100030: External Hallway
+    100032: External Shell
+    100034: Floor Trim
+    100036: Floor Trim.001
+    100038: Floor Trim.002
+    100040: Floor Trim.003
+    100042: Floor Trim.004
+    100044: Floor Trim.005
+    100046: Plane
+    100048: Plane.001
+    100050: Plane.002
+    100052: Plane.003
+    100054: Plane.004
+    100056: Plane.005
+    100058: Plane.006
+    100060: Plane.007
+    100062: Plane.008
+    100064: Tangible Lab Student Workspace
+    100066: VE Lab Hallway
+    100068: VE Student Workspace
+    100070: Virtual Environments Lab.004
+    100072: Virtual Environments Lab.005
+    100074: VR Demo Room
+    100076: VR Lab Space
+    100078: Walls
+    100080: Walls.001
+    100082: Walls.002
+    100084: Walls.003
+    100086: Walls.004
+    100088: Walls.005
+    100090: Walls.006
+    100092: Wide Area Tracking Room
+    100094: //RootNode
+    400000: Cable Channel.000
+    400002: Cable Channel.001
+    400004: Ceiling Rails.001
+    400006: Ceiling Rails.002
+    400008: Ceiling Rails.003
+    400010: Ceiling Rails.004
+    400012: Ceiling Rails.005
+    400014: Ceiling Rails.006
+    400016: Ceiling Tile.603
+    400018: Cube
+    400020: Door
+    400022: Door Frame
+    400024: Door Frame.001
+    400026: Door.001
+    400028: Entry Annex
+    400030: External Hallway
+    400032: External Shell
+    400034: Floor Trim
+    400036: Floor Trim.001
+    400038: Floor Trim.002
+    400040: Floor Trim.003
+    400042: Floor Trim.004
+    400044: Floor Trim.005
+    400046: Plane
+    400048: Plane.001
+    400050: Plane.002
+    400052: Plane.003
+    400054: Plane.004
+    400056: Plane.005
+    400058: Plane.006
+    400060: Plane.007
+    400062: Plane.008
+    400064: Tangible Lab Student Workspace
+    400066: VE Lab Hallway
+    400068: VE Student Workspace
+    400070: Virtual Environments Lab.004
+    400072: Virtual Environments Lab.005
+    400074: VR Demo Room
+    400076: VR Lab Space
+    400078: Walls
+    400080: Walls.001
+    400082: Walls.002
+    400084: Walls.003
+    400086: Walls.004
+    400088: Walls.005
+    400090: Walls.006
+    400092: Wide Area Tracking Room
+    400094: //RootNode
+    2100000: Material.003
+    2100002: Material.004
+    2100004: Material.002
+    2100006: Material.001
+    2100008: No Name
+    2100010: Material
+    2100012: Metal
+    2100014: Steel
+    2100016: Glass
+    2100018: BlackOuterMaterial
+    2100020: Fluorescent Tubes
+    2100022: Light Hood
+    2100024: ReflectiveMaterial
+    2100026: CeilingRails
+    2100028: Ceiling Tile
+    2100030: Floor
+    2100032: WhiteBrickWalls
+    2100034: Plaster
+    2100036: WideAreaTrackingWindow
+    2100038: BlackPlastic
+    2100040: Baseboards
+    2100042: Cable Channel
+    2100044: Door Frame
+    2100046: Door
+    2100048: PurpleBrickWalls
+    2100050: CementBlockWalls
+    2300000: Cable Channel.000
+    2300002: Cable Channel.001
+    2300004: Ceiling Rails.001
+    2300006: Ceiling Rails.002
+    2300008: Ceiling Rails.003
+    2300010: Ceiling Rails.004
+    2300012: Ceiling Rails.005
+    2300014: Ceiling Rails.006
+    2300016: Ceiling Tile.603
+    2300018: Cube
+    2300020: Door
+    2300022: Door Frame
+    2300024: Door Frame.001
+    2300026: Door.001
+    2300028: External Shell
+    2300030: Floor Trim
+    2300032: Floor Trim.001
+    2300034: Floor Trim.002
+    2300036: Floor Trim.003
+    2300038: Floor Trim.004
+    2300040: Floor Trim.005
+    2300042: Plane
+    2300044: Plane.001
+    2300046: Plane.002
+    2300048: Plane.003
+    2300050: Plane.004
+    2300052: Plane.005
+    2300054: Plane.006
+    2300056: Plane.007
+    2300058: Plane.008
+    2300060: Virtual Environments Lab.004
+    2300062: Virtual Environments Lab.005
+    2300064: Walls
+    2300066: Walls.001
+    2300068: Walls.002
+    2300070: Walls.003
+    2300072: Walls.004
+    2300074: Walls.005
+    2300076: Walls.006
+    3300000: Cable Channel.000
+    3300002: Cable Channel.001
+    3300004: Ceiling Rails.001
+    3300006: Ceiling Rails.002
+    3300008: Ceiling Rails.003
+    3300010: Ceiling Rails.004
+    3300012: Ceiling Rails.005
+    3300014: Ceiling Rails.006
+    3300016: Ceiling Tile.603
+    3300018: Cube
+    3300020: Door
+    3300022: Door Frame
+    3300024: Door Frame.001
+    3300026: Door.001
+    3300028: External Shell
+    3300030: Floor Trim
+    3300032: Floor Trim.001
+    3300034: Floor Trim.002
+    3300036: Floor Trim.003
+    3300038: Floor Trim.004
+    3300040: Floor Trim.005
+    3300042: Plane
+    3300044: Plane.001
+    3300046: Plane.002
+    3300048: Plane.003
+    3300050: Plane.004
+    3300052: Plane.005
+    3300054: Plane.006
+    3300056: Plane.007
+    3300058: Plane.008
+    3300060: Virtual Environments Lab.004
+    3300062: Virtual Environments Lab.005
+    3300064: Walls
+    3300066: Walls.001
+    3300068: Walls.002
+    3300070: Walls.003
+    3300072: Walls.004
+    3300074: Walls.005
+    3300076: Walls.006
+    4300000: Plane.005
+    4300002: Plane.008
+    4300004: Plane.007
+    4300006: Plane.006
+    4300008: Cube
+    4300010: Plane.004
+    4300012: Plane.003
+    4300014: Plane
+    4300016: Plane.001
+    4300018: Plane.002
+    4300020: Ceiling Rails.004
+    4300022: Walls.001
+    4300024: Floor Trim.001
+    4300026: Cable Channel.001
+    4300028: Door Frame
+    4300030: Door
+    4300032: Walls.005
+    4300034: Walls.002
+    4300036: Cable Channel.000
+    4300038: Walls
+    4300040: Floor Trim.003
+    4300042: Ceiling Tile.603
+    4300044: Ceiling Rails.006
+    4300046: Virtual Environments Lab.005
+    4300048: Virtual Environments Lab.004
+    4300050: Door Frame.001
+    4300052: Door.001
+    4300054: Ceiling Rails.003
+    4300056: Floor Trim.004
+    4300058: Walls.003
+    4300060: Floor Trim.005
+    4300062: Ceiling Rails.005
+    4300064: Walls.006
+    4300066: Floor Trim
+    4300068: Ceiling Rails.002
+    4300070: Walls.004
+    4300072: Floor Trim.002
+    4300074: Ceiling Rails.001
+    4300076: External Shell
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

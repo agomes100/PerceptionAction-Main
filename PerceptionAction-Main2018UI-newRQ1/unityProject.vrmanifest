@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.perceptionactionmain2018.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\vrfe\\Documents\\asiqueira\\Perception Action\\PerceptionAction-Main2018UI-NewRoom\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "PerceptionAction-Main2018 [Testing]"
+        }
+      }
+    }
+  ]
+}

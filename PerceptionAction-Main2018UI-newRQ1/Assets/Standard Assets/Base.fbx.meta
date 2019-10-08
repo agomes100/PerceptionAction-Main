@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 9afe3bb32cbc6e848a22d05701fb00a5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body1
+    100004: Body1 1
+    100006: Body1 2
+    100008: Body1 3
+    100010: Body2
+    100012: Body2 1
+    100014: Body3
+    100016: Body3 1
+    100018: Body4
+    100020: Body5
+    100022: Cart wheel
+    100024: Cart wheel 1
+    100026: Cart wheel 2
+    100028: Cart wheel 3
+    100030: Cart wheel v4
+    100032: Cart wheel v4 1
+    100034: Cart wheel v4 2
+    100036: Cart wheel v4 3
+    100038: Cart wheel v4:1
+    100040: Cart wheel v4:2
+    100042: Cart wheel v4:3
+    100044: Cart wheel v4:4
+    100046: Column
+    100048: Column v1
+    100050: Column v1:1
+    100052: Component1
+    100054: Component1:1
+    100056: Foot_Left v2
+    100058: Foot_Left v2:1
+    100060: Foot_Right v3
+    100062: Foot_Right v3:1
+    100064: table v5
+    100066: table v5:1
+    100068: top
+    400000: //RootNode
+    400002: Body1
+    400004: Body1 1
+    400006: Body1 2
+    400008: Body1 3
+    400010: Body2
+    400012: Body2 1
+    400014: Body3
+    400016: Body3 1
+    400018: Body4
+    400020: Body5
+    400022: Cart wheel
+    400024: Cart wheel 1
+    400026: Cart wheel 2
+    400028: Cart wheel 3
+    400030: Cart wheel v4
+    400032: Cart wheel v4 1
+    400034: Cart wheel v4 2
+    400036: Cart wheel v4 3
+    400038: Cart wheel v4:1
+    400040: Cart wheel v4:2
+    400042: Cart wheel v4:3
+    400044: Cart wheel v4:4
+    400046: Column
+    400048: Column v1
+    400050: Column v1:1
+    400052: Component1
+    400054: Component1:1
+    400056: Foot_Left v2
+    400058: Foot_Left v2:1
+    400060: Foot_Right v3
+    400062: Foot_Right v3:1
+    400064: table v5
+    400066: table v5:1
+    400068: top
+    2100000: Paint - Metallic (Black)
+    2100002: No Name
+    2100004: Plastic - Matte (Black)
+    2300000: Body1
+    2300002: Body1 1
+    2300004: Body1 2
+    2300006: Body1 3
+    2300008: Body2
+    2300010: Body2 1
+    2300012: Body3
+    2300014: Body3 1
+    2300016: Body4
+    2300018: Body5
+    2300020: Cart wheel
+    2300022: Cart wheel 1
+    2300024: Cart wheel 2
+    2300026: Cart wheel 3
+    2300028: Column
+    2300030: top
+    3300000: Body1
+    3300002: Body1 1
+    3300004: Body1 2
+    3300006: Body1 3
+    3300008: Body2
+    3300010: Body2 1
+    3300012: Body3
+    3300014: Body3 1
+    3300016: Body4
+    3300018: Body5
+    3300020: Cart wheel
+    3300022: Cart wheel 1
+    3300024: Cart wheel 2
+    3300026: Cart wheel 3
+    3300028: Column
+    3300030: top
+    4300000: Body1
+    4300002: Body2
+    4300004: Body3
+    4300006: Body1
+    4300008: Cart wheel
+    4300010: Column
+    4300012: top
+    4300014: Body1
+    4300016: Body1
+    4300018: Body2
+    4300020: Body3
+    4300022: Body4
+    4300024: Body5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

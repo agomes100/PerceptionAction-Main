@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: c05f0d04c7446154ca4a3c24fc736d36
+timeCreated: 1498162403
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Mesh15_Group5_Group_27_1_Group4_Model
+    100002: Mesh16_Group6_Group_27_1_Group4_Model
+    100004: Mesh17_Group_24_1_Group_27_1_Group4_Model
+    100006: Mesh19_Group7_Group_27_2_Group4_Model
+    100008: Mesh20_Group8_Group_27_2_Group4_Model
+    100010: Mesh22_Group_24_4_Group_27_2_Group4_Model
+    100012: Mesh23_Group9_Group_27_3_Group4_Model
+    100014: Mesh24_Group10_Group_27_3_Group4_Model
+    100016: Mesh26_Group_24_6_Group_27_3_Group4_Model
+    100018: Mesh27_Group11_Group_27_4_Group4_Model
+    100020: Mesh28_Group12_Group_27_4_Group4_Model
+    100022: Mesh30_Group_24_8_Group_27_4_Group4_Model
+    100024: Mesh31_Group13_Group_27_5_Group4_Model
+    100026: Mesh32_Group14_Group_27_5_Group4_Model
+    100028: Mesh34_Group_24_10_Group_27_5_Group4_Model
+    100030: Mesh36_Group15_Model
+    100032: Mesh37_Group16_Model
+    100034: Mesh40_Group18_Model
+    100036: Mesh4_Group3_Group2_Model
+    100038: //RootNode
+    100040: Base
+    100042: Handle
+    100044: Riser
+    100046: Riser_001
+    100048: Seat
+    100050: Wheel
+    100052: Wheel_001
+    100054: Wheel_002
+    100056: Wheel_003
+    100058: Wheel_004
+    400000: Mesh15_Group5_Group_27_1_Group4_Model
+    400002: Mesh16_Group6_Group_27_1_Group4_Model
+    400004: Mesh17_Group_24_1_Group_27_1_Group4_Model
+    400006: Mesh19_Group7_Group_27_2_Group4_Model
+    400008: Mesh20_Group8_Group_27_2_Group4_Model
+    400010: Mesh22_Group_24_4_Group_27_2_Group4_Model
+    400012: Mesh23_Group9_Group_27_3_Group4_Model
+    400014: Mesh24_Group10_Group_27_3_Group4_Model
+    400016: Mesh26_Group_24_6_Group_27_3_Group4_Model
+    400018: Mesh27_Group11_Group_27_4_Group4_Model
+    400020: Mesh28_Group12_Group_27_4_Group4_Model
+    400022: Mesh30_Group_24_8_Group_27_4_Group4_Model
+    400024: Mesh31_Group13_Group_27_5_Group4_Model
+    400026: Mesh32_Group14_Group_27_5_Group4_Model
+    400028: Mesh34_Group_24_10_Group_27_5_Group4_Model
+    400030: Mesh36_Group15_Model
+    400032: Mesh37_Group16_Model
+    400034: Mesh40_Group18_Model
+    400036: Mesh4_Group3_Group2_Model
+    400038: //RootNode
+    400040: Base
+    400042: Handle
+    400044: Riser
+    400046: Riser_001
+    400048: Seat
+    400050: Wheel
+    400052: Wheel_001
+    400054: Wheel_002
+    400056: Wheel_003
+    400058: Wheel_004
+    2300000: Mesh15_Group5_Group_27_1_Group4_Model
+    2300002: Mesh16_Group6_Group_27_1_Group4_Model
+    2300004: Mesh17_Group_24_1_Group_27_1_Group4_Model
+    2300006: Mesh19_Group7_Group_27_2_Group4_Model
+    2300008: Mesh20_Group8_Group_27_2_Group4_Model
+    2300010: Mesh22_Group_24_4_Group_27_2_Group4_Model
+    2300012: Mesh23_Group9_Group_27_3_Group4_Model
+    2300014: Mesh24_Group10_Group_27_3_Group4_Model
+    2300016: Mesh26_Group_24_6_Group_27_3_Group4_Model
+    2300018: Mesh27_Group11_Group_27_4_Group4_Model
+    2300020: Mesh28_Group12_Group_27_4_Group4_Model
+    2300022: Mesh30_Group_24_8_Group_27_4_Group4_Model
+    2300024: Mesh31_Group13_Group_27_5_Group4_Model
+    2300026: Mesh32_Group14_Group_27_5_Group4_Model
+    2300028: Mesh34_Group_24_10_Group_27_5_Group4_Model
+    2300030: Mesh36_Group15_Model
+    2300032: Mesh37_Group16_Model
+    2300034: Mesh40_Group18_Model
+    2300036: Mesh4_Group3_Group2_Model
+    2300038: //RootNode
+    2300040: Base
+    2300042: Handle
+    2300044: Riser
+    2300046: Riser_001
+    2300048: Seat
+    2300050: Wheel
+    2300052: Wheel_001
+    2300054: Wheel_002
+    2300056: Wheel_003
+    2300058: Wheel_004
+    3300000: Mesh15_Group5_Group_27_1_Group4_Model
+    3300002: Mesh16_Group6_Group_27_1_Group4_Model
+    3300004: Mesh17_Group_24_1_Group_27_1_Group4_Model
+    3300006: Mesh19_Group7_Group_27_2_Group4_Model
+    3300008: Mesh20_Group8_Group_27_2_Group4_Model
+    3300010: Mesh22_Group_24_4_Group_27_2_Group4_Model
+    3300012: Mesh23_Group9_Group_27_3_Group4_Model
+    3300014: Mesh24_Group10_Group_27_3_Group4_Model
+    3300016: Mesh26_Group_24_6_Group_27_3_Group4_Model
+    3300018: Mesh27_Group11_Group_27_4_Group4_Model
+    3300020: Mesh28_Group12_Group_27_4_Group4_Model
+    3300022: Mesh30_Group_24_8_Group_27_4_Group4_Model
+    3300024: Mesh31_Group13_Group_27_5_Group4_Model
+    3300026: Mesh32_Group14_Group_27_5_Group4_Model
+    3300028: Mesh34_Group_24_10_Group_27_5_Group4_Model
+    3300030: Mesh36_Group15_Model
+    3300032: Mesh37_Group16_Model
+    3300034: Mesh40_Group18_Model
+    3300036: Mesh4_Group3_Group2_Model
+    3300038: //RootNode
+    3300040: Base
+    3300042: Handle
+    3300044: Riser
+    3300046: Riser_001
+    3300048: Seat
+    3300050: Wheel
+    3300052: Wheel_001
+    3300054: Wheel_002
+    3300056: Wheel_003
+    3300058: Wheel_004
+    4300000: Mesh35_Group4_Model
+    4300002: Mesh24_Group10_Group_27_3_Group4_Model
+    4300004: Mesh23_Group9_Group_27_3_Group4_Model
+    4300006: Mesh26_Group_24_6_Group_27_3_Group4_Model
+    4300008: Mesh32_Group14_Group_27_5_Group4_Model
+    4300010: Mesh31_Group13_Group_27_5_Group4_Model
+    4300012: Mesh34_Group_24_10_Group_27_5_Group4_Model
+    4300014: Mesh16_Group6_Group_27_1_Group4_Model
+    4300016: Mesh15_Group5_Group_27_1_Group4_Model
+    4300018: Mesh17_Group_24_1_Group_27_1_Group4_Model
+    4300020: Mesh28_Group12_Group_27_4_Group4_Model
+    4300022: Mesh27_Group11_Group_27_4_Group4_Model
+    4300024: Mesh30_Group_24_8_Group_27_4_Group4_Model
+    4300026: Mesh20_Group8_Group_27_2_Group4_Model
+    4300028: Mesh19_Group7_Group_27_2_Group4_Model
+    4300030: Mesh22_Group_24_4_Group_27_2_Group4_Model
+    4300032: Mesh36_Group15_Model
+    4300034: Mesh37_Group16_Model
+    4300036: Mesh4_Group3_Group2_Model
+    4300038: Mesh40_Group18_Model
+    4300040: Base
+    4300042: Wheel_003
+    4300044: Wheel
+    4300046: Wheel_002
+    4300048: Wheel_004
+    4300050: Wheel_001
+    4300052: Riser
+    4300054: Riser_001
+    4300056: Seat
+    4300058: Handle
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.85
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
